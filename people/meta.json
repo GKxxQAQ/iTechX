@@ -860,6 +860,12 @@
         "teach-courses": [
             [
                 "Spring",
+                "2023",
+                "CS100",
+                "Introduction to Programming"
+            ],
+            [
+                "Spring",
                 "2022",
                 "CS100",
                 "Introduction to Programming"
@@ -8058,6 +8064,12 @@
         "teach-courses": [
             [
                 "Spring",
+                "2023",
+                "CS100",
+                "Introduction to Programming"
+            ],
+            [
+                "Spring",
                 "2022",
                 "CS271",
                 "Computer Graphics II"
@@ -8296,6 +8308,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2023",
+                "CS100",
+                "Introduction to Programming"
+            ],
             [
                 "Spring",
                 "2022",
