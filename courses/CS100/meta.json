@@ -4,6 +4,42 @@
     "semesters": [
         {
             "season": "Spring",
+            "year": "2023",
+            "course_id": "CS100.01",
+            "department": "信息科学与技术学院",
+            "credit": "4",
+            "hours": "64",
+            "prerequisite": "未知",
+            "evaluation": "Homework{7%, 7%, 7%, 11%, 7%, 7%, 11%, 15%} + Midterm{22%} + Quiz{4%} + RecitationAttendance{2%}",
+            "teacher": [
+                "xulan1",
+                "mayuexin"
+            ],
+            "ta": [
+                "gongke",
+                "刘钰琦",
+                "周宇轩",
+                "张亦弛",
+                "王鹏程",
+                "赵清澄",
+                "杨林树",
+                "周恒安",
+                "戴海钊",
+                "葛书源",
+                "黄晨宁",
+                "张钰",
+                "曾焱",
+                "周守琛",
+                "贺云翔",
+                "曹熠辉",
+                "徐奕凡",
+                "张晓夏",
+                "张城",
+                "季凯阳"
+            ]
+        },
+        {
+            "season": "Spring",
             "year": "2022",
             "course_id": "CS100.01",
             "department": "信息科学与技术学院",
